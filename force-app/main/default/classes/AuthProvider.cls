@@ -8,6 +8,7 @@ global class AuthProvider extends Auth.AuthProviderPluginClass {
   
   // Application redirection to the Concur website for 
   // authentication and authorization.
+  //added new comments
   private String authUrl;  
   
   // URI to get the new access token from concur using the GET verb.
